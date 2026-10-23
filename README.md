@@ -71,7 +71,7 @@ Matching countries are dynamically rendered in the HTML using JavaScript DOM met
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/country-auto-completion.git
+git clone https://github.com/YuniqueCode07/country-auto-completion.git
 cd country-auto-completion
 ```
 
